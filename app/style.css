@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input {
+    width: 80%;
+    border: none;
+    background-color: #87adbd;
+    height: 50px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin: 10px;
+    outline: none;
+    font-family: Poppins;
+    color: #fff;
+    font-size: 15px;
+}
+
+button {
+    height: 50px;
+    width: 75px;
+    font-family: Poppins;
+    border: none;
+    border-radius: 10px;
+    background-color: #2815a7;
+    color: #fff;
+    font-weight: 500;
+}
+
+ul {
+    list-style: none;
+    font-family: Poppins;
+    margin: 10px;
+}
+
+ul li {
+    background-color: rgb(40, 143, 191);
+    margin: 5px 0;
+    padding: 5px 10px;
+    color: #fff;
+}
